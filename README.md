@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;Data+Analytics+Explorer;Power+BI+Developer;GCP+%7C+AWS+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/shaikhussain237">
-    <img src="https://komarev.com/ghpvc/?username=shaikhussain237&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-</p>
 
 ---
 
