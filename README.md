@@ -91,7 +91,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shaik-hassain-gouse-1632542a6/" target="_blank">
+<a href="https://www.linkedin.com/in/hussain-shaik-85342a232/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
